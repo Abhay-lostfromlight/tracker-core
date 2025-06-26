@@ -1,0 +1,5 @@
+dev\tracker\AppUsageAggregator.class
+dev\tracker\Main.class
+dev\tracker\ActiveWindowProbe.class
+dev\tracker\MacActiveWindowProbe.class
+dev\tracker\WindowsActiveWindowProbe.class
